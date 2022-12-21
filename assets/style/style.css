@@ -1,0 +1,30 @@
+/* BASE CONFIG */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button {
+  border: none;
+  background: none;
+}
+body {
+  font-family: "Open Sans" Arial, Helvetica, sans-serif;
+}
+/* BASE CONFIG */
+.container {
+  max-width: 400px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.title {
+  padding-top: 150px;
+  margin-bottom: 20px;
+}
+input {
+  width: 150px;
+  height: 30px;
+  border: 1px solid rgb(78, 24, 14);
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
